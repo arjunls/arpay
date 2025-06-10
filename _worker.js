@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "arpay.store"; // Ganti dengan domain utama kalian
+const rootDomain = "arjunwijaya41.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "arpay"; // Ganti dengan nama workers kalian
 const apiKey = "1bd7a745586265f2ab1c3f052e77d19b7afc9"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "arjunwijaya41@gmail.com"; // Ganti dengan email yang kalian gunakan
